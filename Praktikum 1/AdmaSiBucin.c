@@ -92,15 +92,6 @@ int main()
 
     int x = 1 ->  untuk menyimpan si x;
 
-    int = bilangan bulat; 2^-32 - 2^32-1 -> 4 byte
-    char = masukkin abjad a,b,x,d,qe -> 1 byte
-    long long = bilangan bulat besar; 2^-64 - 2^64-1 -> 8 byte
-    unsigned long long = bilangan bulat besar tanpa min 0 - 2^64 -> 8 byte
-    float = bilangan rasional ->
-    double = bilangan rasional besar
-    short = bilangan bulat kecil
-    string = kata;
-
     scanf("%d", &data);
     int benda;
     int harga;
